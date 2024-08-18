@@ -1,0 +1,5 @@
+### Qu'est-ce que PHP ?
+![img.png](../../092_images/img_4.png)
+**PHP** (Hypertext Preprocessor) est un langage de script largement utilisé pour le développement web. Initialement conçu pour produire des pages web dynamiques, PHP s'exécute sur le serveur et envoie le résultat au client sous forme de code HTML. Cela signifie que contrairement aux langages de script côté client comme JavaScript, le code PHP est interprété et exécuté sur le serveur avant que le contenu ne soit envoyé à l'utilisateur final.
+
+PHP est particulièrement apprécié pour sa flexibilité, sa simplicité d'utilisation et sa large compatibilité avec les bases de données, ce qui en fait un outil privilégié pour développer des sites web interactifs et des applications web. Il est capable de gérer des tâches complexes comme la gestion des sessions, le traitement des formulaires, la génération dynamique de contenu, la manipulation de fichiers sur le serveur, et bien plus encore.

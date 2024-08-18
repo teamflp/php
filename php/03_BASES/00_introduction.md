@@ -1,0 +1,1 @@
+PHP (Hypertext Preprocessor) est un langage de script côté serveur largement utilisé pour le développement web. Il est facile à apprendre, mais offre une grande puissance grâce à ses fonctionnalités avancées. Dans cette section, nous allons explorer les bases du PHP, en commençant par la syntaxe de base, les variables, les types de données, les opérateurs, et les expressions.
