@@ -4,8 +4,6 @@
 
 Voici la structure de base du projet :
 
-Voici la structure de base du projet :
-
 ```plaintext
 /
 |-- index.php
